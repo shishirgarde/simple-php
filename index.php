@@ -1,6 +1,6 @@
 <?php
 echo "Hello World!";
-echo "This is Branch 1!";
+echo "\nThis is Branch 1!";
 require 'config.php';
 require 'functions.php';
 
